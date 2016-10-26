@@ -11,7 +11,7 @@ public class TestThread {
 	 */
 	public TestThread() {
 		// TODO Auto-generated constructor stub
-		for (int i = 0; i < 10; i++) {
+		for (int i = 0; i < 20; i++) {
 			String nameString = "thread_" + i;
 			Thread thread = new Thread(new Do(nameString));
 			thread.setName(nameString);	
