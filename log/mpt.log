@@ -1,0 +1,7 @@
+2016/11/03 11:31:42.857  INFO (App.java:15) - info Hello World!
+2016/11/03 11:31:42.859  WARN (App.java:17) - warn Hello World
+2016/11/03 11:31:42.859 ERROR (App.java:18) - error Hello World
+2016/11/03 11:31:42.860 FATAL (App.java:19) - fatal Hello World
+2016/11/03 11:31:42.860 FATAL (App.java:27) - Exp : 
+java.lang.ArithmeticException: / by zero
+	at com.longtugame.eee.Mpt.App.main(App.java:24)
