@@ -1,4 +1,4 @@
-package com.longtugame.eee.Mpt.thread;
+package com.test.eee.mpt.business.thread;
 
 /**
  * @author zhaoshoukun

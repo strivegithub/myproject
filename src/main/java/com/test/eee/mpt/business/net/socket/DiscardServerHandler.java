@@ -1,4 +1,4 @@
-package com.longtugame.eee.Mpt.net.socket;
+package com.test.eee.mpt.business.net.socket;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.channel.ChannelHandlerContext;

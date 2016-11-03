@@ -1,4 +1,4 @@
-package com.test.eee.Mpt;
+package com.test.eee.mpt.main;
 
 /**
  * Hello world!
