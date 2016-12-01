@@ -24,9 +24,14 @@ public class App {
 			int c = a / b;
 		} catch (Exception e) {
 			// TODO: handle exception
-			logger.fatal("Exp : ", e);
+			logger.fatal("Exp : " + e);
 		}
-
+		String returnParam = "gsn|goodsid|money";
+		String[] custom_param = returnParam.split("\\|");
+		for (int i = 0; i < custom_param.length; i++) {
+			String string = custom_param[i];
+			System.out.println("App.main() = " + string);
+		}
 		
 	}
 	

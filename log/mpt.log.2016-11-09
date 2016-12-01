@@ -1,0 +1,17 @@
+2016/11/09 17:16:43.477  INFO (App.java:15) - info Hello World!
+2016/11/09 17:16:43.479  WARN (App.java:17) - warn Hello World
+2016/11/09 17:16:43.480 ERROR (App.java:18) - error Hello World
+2016/11/09 17:16:43.480 FATAL (App.java:19) - fatal Hello World
+2016/11/09 17:16:43.480 FATAL (App.java:27) - Exp : 
+java.lang.ArithmeticException: / by zero
+	at com.test.eee.mpt.main.App.main(App.java:24)
+2016/11/09 17:16:56.881  INFO (App.java:15) - info Hello World!
+2016/11/09 17:16:56.883  WARN (App.java:17) - warn Hello World
+2016/11/09 17:16:56.883 ERROR (App.java:18) - error Hello World
+2016/11/09 17:16:56.883 FATAL (App.java:19) - fatal Hello World
+2016/11/09 17:16:56.883 FATAL (App.java:27) - Exp : / by zero
+2016/11/09 17:17:47.566  INFO (App.java:15) - info Hello World!
+2016/11/09 17:17:47.568  WARN (App.java:17) - warn Hello World
+2016/11/09 17:17:47.568 ERROR (App.java:18) - error Hello World
+2016/11/09 17:17:47.568 FATAL (App.java:19) - fatal Hello World
+2016/11/09 17:17:47.568 FATAL (App.java:27) - Exp : java.lang.ArithmeticException: / by zero
